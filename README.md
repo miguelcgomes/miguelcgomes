@@ -7,5 +7,4 @@ Hey there!👋
 <br>I'm a data scientist and a tech enthusiast from Lisbon, Portugal.
 <br>I am passionate about nature, food, technology and problem solving.
 <br>I'll be using this platform primarily to share some of the coding projects I'll be developing.
-<br>Besides I'll use it to track my learning progress and to contribute to some cool open-source projects.
 
