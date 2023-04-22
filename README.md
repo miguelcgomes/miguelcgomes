@@ -1,4 +1,4 @@
-# :rocket: Miguel Gomes
+# :astronaut: Miguel Gomes
 
 **`Data Scientist and Tech Enthusiast`**
 
