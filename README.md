@@ -1,4 +1,4 @@
-# :rocket:♂️ Miguel Gomes
+# :rocket: Miguel Gomes
 
 **`Data Scientist and Tech Enthusiast`**
 
